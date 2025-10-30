@@ -73,6 +73,4 @@ Este é o arquivo principal que deve ser executado. Ele importa a lógica do `lo
 
 1.  Certifique-se de que você tem o Python 3 instalado.
 2.  Coloque os arquivos `hud_tkinter.py` e `logica.py` no mesmo diretório.
-3.  Abra um terminal ou prompt de comando, navegue até esse diretório e execute:
-
-´´´python hud_tkinter.py´´´
+3.  Abra um terminal ou prompt de comando, navegue até esse diretório e execute: **python hud_tkinter.py**
